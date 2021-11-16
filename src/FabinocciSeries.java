@@ -119,6 +119,33 @@ public class FabinocciSeries {
 		//			}
 		//		}
 		//		System.out.println("minimum value = "+maxMin);
+
+
+
+
+		//Odd or Even
+
+		int a=24;
+
+		if (a%2==0) {
+			System.out.println("Even");
+		}
+		else {
+			System.out.println("Odd");
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
 	}
 
 }
